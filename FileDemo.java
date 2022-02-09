@@ -17,3 +17,12 @@ public class FileDemo {
             System.out.println("No File!");
     }
 }
+
+//                                              ***OUTPUT****
+//File is There
+//        C:\Users\Coditas\IdeaProjects\JavaTutorials\src\abc.txt
+//        C:\Users\Coditas\IdeaProjects\JavaTutorials\src\abc.txt
+//        src\abc.txt
+//        C:\Users\Coditas\IdeaProjects\JavaTutorials\src\abc.txt
+//        src
+//        C:\Users\Coditas\IdeaProjects\JavaTutorials\src\abc.txt
